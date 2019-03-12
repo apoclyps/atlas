@@ -1,0 +1,13 @@
+version: '3.7'
+
+services:
+
+    service: &default
+        build: .
+        environment:
+          - GEOIP_CITY_FILE_PATH=GeoLite2-City.mmdb
+        ports:
+            - "8080:8080"
+
+    test:
+        build: .
