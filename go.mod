@@ -13,7 +13,7 @@ require (
 	github.com/kylelemons/go-gypsy v0.0.0-20160905020020-08cad365cd28 // indirect
 	github.com/lib/pq v1.0.0 // indirect
 	github.com/mattn/go-isatty v0.0.7 // indirect
-	github.com/oschwald/geoip2-golang v1.2.1
+	github.com/oschwald/geoip2-golang v1.3.0
 	github.com/oschwald/maxminddb-golang v1.3.0 // indirect
 	github.com/ugorji/go/codec v0.0.0-20190309163734-c4a1c341dc93 // indirect
 	github.com/voxxit/gogeoip2 v0.0.0-20161212231247-531259d5b541
